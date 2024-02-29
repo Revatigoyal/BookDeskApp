@@ -16,4 +16,6 @@ Users can chat with each other and also share images in the chat.
 The active status is shown while the user is logged in.
 
 
+![Screenshot (174)](https://github.com/Revatigoyal/ChatApp/assets/96240425/1a54cac0-efd9-42bd-a4ae-353a89140da9)
+
 Lastly I have hosted it on Netlify. 
